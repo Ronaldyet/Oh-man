@@ -1,6 +1,6 @@
 # cwlt.github.io
 
-The purpose of this project is to provide a simple jumping-off point for a Jekyll-based github.io site.
+The  purpose  of this project is to provide a simple jumping-off point for a Jekyll-based github.io site.
 
 
 ## Prerequisites
